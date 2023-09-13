@@ -1,3 +1,6 @@
+![](hiking.png)
+
+
 - 👋 Hi, I’m @lilizhaownt
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...

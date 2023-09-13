@@ -1,4 +1,4 @@
-### 👋 Hi, I’m Lili
+# 👋 Hi, I’m Lili
 
 <img src = "hiking.jpg" width="100%" height="150px" />
 

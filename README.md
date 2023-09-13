@@ -1,13 +1,12 @@
+### 👋 Hi, I’m Lili
+
+<img src = "hiking.jpg" width="500px" height="150px" />
+
+I am a nature lover, adventure explorer, a coding enthusiast, and a problem solver who specialize in web application development.
 
 
+## Technologies
+<img src ="icons.jpg">
 
-- 👋 Hi, I’m @lilizhaownt
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-lilizhaownt/lilizhaownt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Projects
+<a>Little Lemon</a>

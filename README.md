@@ -6,7 +6,7 @@
 
 
 ## Technologies
-<img src ="icons.jpg">
+<img src ="icons.png">
 
 ## Projects
 <a>Little Lemon</a>

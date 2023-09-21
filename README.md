@@ -8,7 +8,6 @@
 ## Technologies
 <img src ="icons.png">
 
-## Projects
-<a>Little Lemon</a>
+## Feature Projects
 
 ## Connect
